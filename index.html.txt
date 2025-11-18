@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Inagrin Indonesia – Woodchip & Corn Cob Meal Exporter to Korea</title>
+    <meta name="description" content="Inagrin Indonesia – Premium supplier of woodchip and corn cob meal. Direct export to South Korea (Busan, Incheon). Competitive price & reliable delivery."/>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
+    <style>
+        :root {--primary:#1a5f3f;--secondary:#f9b120;--dark:#111;--light:#f8f9fa;}
+        *{margin:0;padding:0;box-sizing:border-box;}
+        body{font-family:'Poppins',sans-serif;color:var(--dark);line-height:1.6;background:#fff;}
+        header{background:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url('https://images.unsplash.com/photo-1505555436045-131e2060bad8?auto=format&fit=crop&q=80')center/cover no-repeat;color:white;text-align:center;padding:140px 20px;}
+        .container{max-width:1200px;margin:auto;padding:0 20px;}
+        h1{font-size:3.8rem;margin-bottom:15px;letter-spacing:1px;}
+        .tagline{font-size:1.5rem;margin:20px 0;opacity:0.95;}
+        .badge{background:var(--secondary);color:#000;padding:10px 25px;border-radius:50px;font-weight:700;font-size:0.95rem;}
+        h2{color:var(--primary);text-align:center;margin:60px 0 40px;font-size:2.4rem;}
+        .products{display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:40px;margin:60px 0;}
+        .card{background:white;border-radius:18px;overflow:hidden;box-shadow:0 12px 35px rgba(0,0,0,0.12);text-align:center;transition:0.4s;}
+        .card:hover{transform:translateY(-12px);box-shadow:0 20px 40px rgba(0,0,0,0.18);}
+        .card img{width:100%;height:260px;object-fit:cover;}
+        .card h3{font-size:1.9rem;margin:25px 0 15px;color:var(--primary);}
+        .specs{background:#f7f9fb;padding:22px;margin:20px;border-radius:12px;text-align:left;font-size:0.95rem;}
+        .btn{display:inline-block;background:var(--primary);color:white;padding:14px 34px;border-radius:50px;text-decoration:none;font-weight:600;margin:15px 0;transition:0.3s;}
+        .btn:hover{background:var(--secondary);color:#000;}
+        .korea-focus{background:linear-gradient(135deg,#e3f2fd,#bbdefb);padding:80px 20px;text-align:center;}
+        .korea-focus i{font-size:4.5rem;color:#c41e3a;margin-bottom:25px;}
+        .highlight{color:#c41e3a;font-weight:700;}
+        footer{background:var(--dark);color:white;text-align:center;padding:60px 20px;}
+        .contact-info p{font-size:1.25rem;margin:15px 0;}
+        .contact-info i{color:var(--secondary);margin-right:12px;}
+        @media(max-width:768px){h1{font-size:2.8rem;}.products{grid-template-columns:1fr;}}
+    </style>
+</head>
+<body>
+<header>
+    <div class="container">
+        <h1>INAGRIN INDONESIA</h1>
+        <p class="tagline">Premium Woodchip & Corn Cob Meal Supplier</p>
+        <div class="badge">Specialized Export to South Korea Market</div>
+        <br><br>
+        <a href="#contact" class="btn">Get Latest CFR Busan Price</a>
+    </div>
+</header>
+<section class="container">
+    <h2>Our Flagship Products for Korea</h2>
+    <div class="products">
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1589924691995-400dc9cff0bf?auto=format&fit=crop&q=80" alt="Woodchip"/>
+            <h3>Woodchip (Acacia & Eucalyptus)</h3>
+            <p>High-quality chips for pulp & paper, MDF board, and biomass power plants.</p>
+            <div class="specs">
+                <strong>Moisture:</strong> ≤ 45%<br>
+                <strong>Size:</strong> 10–50 mm<br>
+                <strong>Bark:</strong> ≤ 3%<br>
+                <strong>Origin:</strong> Kalimantan / Sumatra<br>
+                <strong>Loading Port:</strong> Banjarmasin, Semarang
+            </div>
+            <a href="mailto:export@inagrin.id" class="btn">Inquiry Woodchip</a>
+        </div>
+        <div class="card">
+            <img src="https://images.pexels.com/photos/1427581/pexels-photo-1427581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Corn Cob Meal"/>
+            <h3>Corn Cob Meal / Grit</h3>
+            <p>Natural, dust-free product for animal bedding, pet litter, polishing, and feed.</p>
+            <div class="specs">
+                <strong>Size:</strong> 0.5–6 mm (customizable)<br>
+                <strong>Moisture:</strong> ≤ 12%<br>
+                <strong>Aflatoxin:</strong> Negative<br>
+                <strong>Packing:</strong> 25 kg PP / 800–1,000 kg jumbo bag<br>
+                <strong>Capacity:</strong> 3,000+ MT/month
+            </div>
+            <a href="mailto:export@inagrin.id" class="btn">Inquiry Corn Cob</a>
+        </div>
+    </div>
+</section>
+<section class="korea-focus">
+    <div class="container">
+        <h2><span class="highlight">대한민국</span> Dedicated Service</h2>
+        <p style="max-width:900px;margin:30px auto;font-size:1.25rem;">
+            • Direct vessel 2–3 times/month to <strong>Busan & Incheon</strong><br>
+            • Korean-speaking team (한국어 상담 가능)<br>
+            • Full export documents: Phytosanitary, Fumigation, KFDA compliance<br>
+            • CFR/CIF Busan pricing & long-term contracts welcome
+        </p>
+        <a href="https://wa.me/6281234567890" class="btn" style="background:#25d366;color:white;font-size:1.2rem;padding:16px 40px;">
+            WhatsApp 한국어/English
+        </a>
+    </div>
+</section>
+<section id="contact" class="container">
+    <h2>Contact Inagrin Indonesia Now</h2>
+    <div class="contact-info">
+        <p> export@inagrin.id</p>
+        <p> +62 812-3456-7890 (Mr. Kim – 한국어 담당)</p>
+        <p> +62 21 5678 9012</p>
+        <p> Jakarta – Indonesia</p>
+    </div>
+</section>
+<footer>
+    <div class="container">
+        <p>© 2025 Inagrin Indonesia – Your Trusted Partner for Woodchip & Corn Cob Meal to South Korea</p>
+        <p style="margin-top:10px;">빠르고 정확한 한국 수출 전문 │ Reliable & Fast Delivery to <strong>대한민국</strong></p>
+    </div>
+</footer>
+</body>
+</html>
